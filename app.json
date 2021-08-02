@@ -1,7 +1,7 @@
 {
   "name": "Radio Player Bitpattern",
   "description": "Radio in groups",
-  "repository": "",
+  "repository": "https://github.com/donc-py/radiopy.git",
   "logo": "",
   "keywords": [
     "radio",
